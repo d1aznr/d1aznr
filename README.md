@@ -1,8 +1,8 @@
-**Hey** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
+**Hello there** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 **I'm** [**Diaz!**](https://t.me/Diaznr/) 
 
-**😄 Linux Kernel enthusiast on** [**Poco F3**](https://www.gsmarena.com/xiaomi_poco_f3-10758.php).</br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Diaz1401&show_icons=true&include_all_commits=true&theme=radical&hide_rank=true&hide_title=true&number_format=long)](https://github-stats-extended.vercel.app)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Diaz1401&layout=compact&langs_count=6&theme=radical&exclude_repo=android-kernel-common,kernel_xiaomi_alioth,kernel_xiaomi_whyred,kernel_xiaomi_whyred-legacy,kernel_xiaomi_sm8250-archive,tnn,ccm,xmrig,binutils-gdb,wasm-miner,cpuminer-multi,resistance-miner,ver,arrow_kernel_xiaomi_sm8250,quantic_kernel_xiaomi_sm8250,pktminer,cmi,ghost,kernel-hide,neo,devel,kernel_xiaomi_sdm845,SatpolMiner,nheq,csminer,night,derod,derop,dero,gocm)](https://github-stats-extended.vercel.app)
 
-[![Diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diaz1401&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&number_format=long&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz1401&exclude_repo=kernel_xiaomi_sdm845,android-kernel-common&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Diaz1401.Diaz1401)
